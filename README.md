@@ -2,7 +2,7 @@
 
 This repository enables us to interact with the celo core contracts in foundry and make use of the speed and awesome features for writing tests, debugging and optimizing gas.
 
-<script id="asciicast-503199" src="https://asciinema.org/a/503199.js" async></script>
+[![asciicast](https://asciinema.org/a/503199.svg)](https://asciinema.org/a/503199)
 
 ## Installation
 
