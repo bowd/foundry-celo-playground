@@ -1,6 +1,9 @@
 [default]
-src = 'src'
+src = 'src/celo-monorepo/packages/protocol/contracts'
 out = 'out'
 libs = ['lib']
+
+# Forge picks up an incompatbile contract from celo-monorepo
+no_match_contract = 'RandomTest'
 
 # See more config options https://github.com/foundry-rs/foundry/tree/master/config
